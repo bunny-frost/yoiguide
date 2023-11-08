@@ -390,7 +390,7 @@ body.dark .styled-link:hover {
     font-size: 18px;
     font-weight: 600;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .down-btn:hover {
