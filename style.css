@@ -367,6 +367,18 @@ body.dark .styled-link:hover {
     width: calc(100% - 88px);
 }
 
+.sidebar.close .nav-link .inactive {
+    pointer-events: none;
+}
+
+.five-star {
+    color: #D18C3D;
+}
+
+.four-star {
+    color: #A075B5;
+}
+
 .download {
     display: flex;
     flex-direction: column;
