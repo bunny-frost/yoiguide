@@ -331,7 +331,7 @@ body.dark .switch::before {
     text-decoration: none;
     transition: var(--tran-03);
     border-bottom: 2px solid var(--primary-color);
-    padding-bottom: 3px;
+    padding-bottom: 0px;
 }
 
 .styled-link:hover {
